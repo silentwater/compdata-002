@@ -1,0 +1,2 @@
+source("submitscript.R")
+submit()
