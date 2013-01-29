@@ -1,0 +1,1 @@
+﻿Unfortunately, sumbit.R works correctly only in R GUI.
